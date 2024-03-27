@@ -1,0 +1,13 @@
+dataclasses
+urllib3
+requests
+#typing
+dataclasses_json
+beautifulsoup4
+lxml
+configparser
+webdriver-manager
+selenium
+gspread
+oauth2client
+pyinstaller
